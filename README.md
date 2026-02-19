@@ -14,6 +14,7 @@ Busco evoluir na construção de APIs, boas práticas de código e arquitetura d
 
 
 Atualmente estudando:
+
 • ☕ Java e POO  
 • 🗄️ Banco de Dados  
 • 🔗 APIs REST  
