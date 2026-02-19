@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá! Eu sou Victor Hugo 👋
 
-<!--
-**vnunes7/vnunes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Focado em Desenvolvimento Backend com Java  
+📊 Experiência com indicadores e análise de dados  
+🇬🇧 Estudando inglês  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de ADS com foco em me tornar Desenvolvedor Backend Java.  
+Tenho experiência profissional com indicadores e métricas, o que me dá uma base analítica forte para resolver problemas e criar soluções.
+
+Atualmente estudando:
+• ☕ Java e POO  
+• 🗄️ Banco de Dados  
+• 🔗 APIs REST  
+• 🧠 Estrutura de Dados  
+
+
+## 📊 Estatísticas GitHub
+
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=vnunes7&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnunes7&layout=compact&theme=tokyonight)
+
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/victor-hugo-nepomuceno-927b62244/
+- Email: vhnunes00@gmail.com
