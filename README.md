@@ -17,13 +17,6 @@ Atualmente estudando:
 • 🧠 Estrutura de Dados  
 
 
-## 📊 Estatísticas GitHub
-
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=vnunes7&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnunes7&layout=compact&theme=tokyonight)
-
-
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/victor-hugo-nepomuceno-927b62244/
