@@ -1,7 +1,7 @@
 # Olá! Eu sou Victor Hugo 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
-💻 Focado em Desenvolvimento com as linguagens Java, Python, JavaScript
+💻 Focado em Desenvolvimento Backend com Java  
 📊 Experiência com indicadores e análise de dados  
 🇬🇧 Estudando inglês  
 
