@@ -12,7 +12,7 @@ Sou um entusiasta de tecnologia com uma trajetória diversificada, que vai da ma
 
 Atualmente estudando:
 
-• ☕ Java, Python e POO, TailwindCSS 
+• ☕ Java, Python e POO, TailwindCSS
 • 🗄️ Banco de Dados   
 • 🧠 Estrutura de Dados  
 
